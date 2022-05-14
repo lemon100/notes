@@ -28,8 +28,9 @@ export PATH=$PATH:$JRE_HOME/bin``
 
 
 
-5、运行java XX 文件时候报错error  
+5、如果运行java XX 文件时候报错error  
 Error: Could not find or load main class MainService  
 使用命令：`vi /etc/profile` 打开 `/etc/profile` ，在CLASSPATH=后面加上.:  
 修改 export CLASSPATH=$JRE_HOME/lib/rt.jar:$JRE_HOME/lib/ext为export   CLASSPATH=.:$JRE_HOME/lib/rt.jar:$JRE_HOME/lib/ext  
 修改完成后添加完后执行 ：source /etc/profile   （重置环境变量，使得修改生效）  
+

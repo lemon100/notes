@@ -114,3 +114,10 @@ firewalld   # firewall-cmd --reload
 开通端口之后，测试远程连接，成功则说明连接成功。
 
 ![image-20210430145144027](images/image-20210430145144027.png)
+
+## 5. 关闭mysql
+
+```
+systemctl stop mysqld
+```
+
