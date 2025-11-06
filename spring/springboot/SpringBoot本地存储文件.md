@@ -69,11 +69,11 @@ file:
 
 ## 1.3 部署项目包，可以正常存储提取文件
 
-![image-20251107003534844](D:\notes\spring\springboot\assets\image-20251107003534844.png)
+![image-20251107003534844](assets\image-20251107003534844.png)
 
-![image-20251107003717889](D:\notes\spring\springboot\assets\image-20251107003717889.png)
+![image-20251107003717889](assets\image-20251107003717889.png)
 
-![image-20251107003759622](D:\notes\spring\springboot\assets\image-20251107003759622.png)
+![image-20251107003759622](assets\image-20251107003759622.png)
 
 #### 在部署包的文件夹内，按配置目录成本存储对应文件。
 
